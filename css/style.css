@@ -1,0 +1,16 @@
+.header, .hero, .body, .bar, .footer, .footer2 {
+	background-color: #FFAEC9;
+	padding: 15px 0;
+}
+.bg{
+	height: 100px;
+	background-color: #99D9EA;
+	border: 1px solid green;
+	margin-bottom: 10px;
+}
+.bg2{
+	height: 100px;
+	background-color: red;
+	border: 5px solid green;
+	margin-bottom: 10px;
+}
